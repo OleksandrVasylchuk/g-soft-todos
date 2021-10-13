@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/g-soft-todos/static/css/main.fadec521.chunk.css",
+    "main.js": "/g-soft-todos/static/js/main.90154550.chunk.js",
+    "main.js.map": "/g-soft-todos/static/js/main.90154550.chunk.js.map",
+    "runtime-main.js": "/g-soft-todos/static/js/runtime-main.b3d082d8.js",
+    "runtime-main.js.map": "/g-soft-todos/static/js/runtime-main.b3d082d8.js.map",
+    "static/js/2.3250f954.chunk.js": "/g-soft-todos/static/js/2.3250f954.chunk.js",
+    "static/js/2.3250f954.chunk.js.map": "/g-soft-todos/static/js/2.3250f954.chunk.js.map",
+    "index.html": "/g-soft-todos/index.html",
+    "static/css/main.fadec521.chunk.css.map": "/g-soft-todos/static/css/main.fadec521.chunk.css.map",
+    "static/js/2.3250f954.chunk.js.LICENSE.txt": "/g-soft-todos/static/js/2.3250f954.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3d082d8.js",
+    "static/js/2.3250f954.chunk.js",
+    "static/css/main.fadec521.chunk.css",
+    "static/js/main.90154550.chunk.js"
+  ]
+}
