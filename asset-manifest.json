@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/g-soft-todos/static/css/main.fadec521.chunk.css",
-    "main.js": "/g-soft-todos/static/js/main.90154550.chunk.js",
-    "main.js.map": "/g-soft-todos/static/js/main.90154550.chunk.js.map",
+    "main.css": "/g-soft-todos/static/css/main.73f14f58.chunk.css",
+    "main.js": "/g-soft-todos/static/js/main.00f5c26f.chunk.js",
+    "main.js.map": "/g-soft-todos/static/js/main.00f5c26f.chunk.js.map",
     "runtime-main.js": "/g-soft-todos/static/js/runtime-main.b3d082d8.js",
     "runtime-main.js.map": "/g-soft-todos/static/js/runtime-main.b3d082d8.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/g-soft-todos/static/css/2.bc922b9c.chunk.css",
     "static/js/2.3250f954.chunk.js": "/g-soft-todos/static/js/2.3250f954.chunk.js",
     "static/js/2.3250f954.chunk.js.map": "/g-soft-todos/static/js/2.3250f954.chunk.js.map",
     "index.html": "/g-soft-todos/index.html",
-    "static/css/main.fadec521.chunk.css.map": "/g-soft-todos/static/css/main.fadec521.chunk.css.map",
-    "static/js/2.3250f954.chunk.js.LICENSE.txt": "/g-soft-todos/static/js/2.3250f954.chunk.js.LICENSE.txt"
+    "static/css/2.bc922b9c.chunk.css.map": "/g-soft-todos/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.73f14f58.chunk.css.map": "/g-soft-todos/static/css/main.73f14f58.chunk.css.map",
+    "static/js/2.3250f954.chunk.js.LICENSE.txt": "/g-soft-todos/static/js/2.3250f954.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/g-soft-todos/static/media/5053309.6da46748.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b3d082d8.js",
+    "static/css/2.bc922b9c.chunk.css",
     "static/js/2.3250f954.chunk.js",
-    "static/css/main.fadec521.chunk.css",
-    "static/js/main.90154550.chunk.js"
+    "static/css/main.73f14f58.chunk.css",
+    "static/js/main.00f5c26f.chunk.js"
   ]
 }
