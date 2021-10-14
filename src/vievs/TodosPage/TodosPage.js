@@ -26,7 +26,7 @@ export default function TodosPage(todo) {
           <List>
             {todos.map((todo) => (
               <Item key={todo.id}>
-                <ItemTitle>UserId: {todo.userId}</ItemTitle>
+                <ItemTitle>UserId: {todo.id}</ItemTitle>
                 <ItemTitle>Title: {todo.title}</ItemTitle>
                 {/* <ItemTitle>Completed: {todo.completed}</ItemTitle> */}
               </Item>

@@ -4,7 +4,6 @@ export default function HomePage() {
   return (
     <>
       <Title>Hi!</Title>
-      <img crc=""></img>
     </>
   );
 }
